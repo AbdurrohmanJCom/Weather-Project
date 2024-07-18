@@ -1,0 +1,5 @@
+django 
+djangorestframework
+opencage
+drf-yasg
+psycopg2
