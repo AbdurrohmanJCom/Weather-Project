@@ -19,7 +19,6 @@ Follow these steps to get the project up and running on your local machine.
 git clone https://github.com/your-username/weather_project.git
 cd weather_project
 
-# Create Docker container
 docker-compose build
 docker-compose up
 
